@@ -2,4 +2,4 @@ remote_theme: thelehhman/texture
 texture:
   title: Prinsify
   tagline: Simple Print Server
-  style: [blue]
+  style: blue
